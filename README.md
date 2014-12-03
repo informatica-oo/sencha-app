@@ -1,4 +1,4 @@
-Sencha-aap
+Sencha-app
 ==========
 
-Een geweldige leuke aap die iedereen blij zal maken!
+Een geweldige leuke app die iedereen blij zal maken!
